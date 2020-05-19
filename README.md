@@ -1,2 +1,2 @@
 # Gerogetown-Project-Airbnb-PricePrediciton
-Georgetown Final Project
+Code for final project for Data Science Certificate
